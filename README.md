@@ -11,10 +11,12 @@
 </div>
 
 <div id="about">
-  I'm a french developper currently learning Javascript, Node, PostgreSQL and a few other things. 
-[My CV](https://tinyurl.com/WFDev)
+  I'm a french developper currently learning Javascript, Node, PostgreSQL and a few other things.
+  
+
   
 </div>
+[My CV](https://tinyurl.com/WFDev)
 <!-- <div id="myprojets">
 <!--  <p>
   Working on 
