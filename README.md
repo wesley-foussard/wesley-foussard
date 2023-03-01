@@ -16,7 +16,9 @@
 
   
 </div>
+
 [My CV](https://tinyurl.com/WFDev)
+
 <!-- <div id="myprojets">
 <!--  <p>
   Working on 
@@ -26,7 +28,7 @@
 
 
 
-**Some stats ^^**
+**Some stats**
 
 [![Nimiteos GitHub stats](https://github-readme-stats.vercel.app/api?username=wesley-foussard&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/wesley-foussard/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesley-foussard&layout=compact&theme=gruvbox)](https://github.com/wesley-foussard/github-readme-stats)
