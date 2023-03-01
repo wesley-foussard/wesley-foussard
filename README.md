@@ -12,14 +12,15 @@
 
 <div id="about">
   I'm a french developper currently learning Javascript, Node, PostgreSQL and a few other things. 
+[My CV](https://tinyurl.com/WFDev)
   
 </div>
-<div id="myprojets">
- <p>
+<!-- <div id="myprojets">
+<!--  <p>
   Working on 
-  * a library  app using JS Pug
- </p>
-</div>
+  a library  app using JS Pug
+ </p> -->
+
 
 
 
