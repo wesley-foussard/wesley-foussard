@@ -17,7 +17,7 @@
   
 </div>
 
-[My CV](https://tinyurl.com/WFDev)
+[My CV](dev3.pdf)
 
 <!-- <div id="myprojets">
 <!--  <p>
