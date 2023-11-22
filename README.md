@@ -17,7 +17,7 @@
   
 </div>
 
-[My CV](dev3.pdf)
+[My CV](CV_Dev_Wesley_Foussard.pdf)
 
 <!-- <div id="myprojets">
 <!--  <p>
